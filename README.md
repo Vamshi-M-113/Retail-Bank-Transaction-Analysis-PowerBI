@@ -54,15 +54,6 @@ I cleaned and transformed the data, created a data model and DAX measures, and b
 
 [▶️ Watch my Power BI project walkthrough on LinkedIn](https://lnkd.in/p/dvvGFHZM)
 
-## 📄 Project Documentation
-
-[📑 View Project Report](Documentation/Retail_Bank_Project_Report.pdf)
-
-## 📁 Power BI File
-
-[📊 Open Power BI Project](Retail_Bank_Transaction_Analysis.pbix)
-
-> The `.pbix` file requires Power BI Desktop.
 
 ## 🙏 Acknowledgement
 
